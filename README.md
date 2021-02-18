@@ -1,4 +1,4 @@
-# nypd-crime-tracker
+# NYPD Hate Crime Tracker
 
 A simple Python analysis of NYPD hate crime data by area through the year 2020. Aim is to see if any trends exist in the hate crimes as the city went through drastic changes due to Covid-19 and mass fear that the nation faced.
 
@@ -36,6 +36,11 @@ The data selected for this analysis is related to location, crime type, and time
 
 Generally the strategy in the analysis was to cut the desired data from the main source ex. location and crime type, aggregate the results in different ways, and plot out to see what we are able to find. Notably we rename, rank and count our the values, filtering to what is needed before plotting.
 
+### Challenges
+
 Any challenges encountered
+
+### Take Aways
+
 A few key insights you derived from your analysis
 Conclusion(s) / key takeaways from your analysis
