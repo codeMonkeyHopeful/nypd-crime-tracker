@@ -38,7 +38,7 @@ Generally the strategy in the analysis was to cut the desired data from the main
 
 ### Challenges
 
-Any challenges encountered
+While the data gives us a lot of useful information the dates weren't always the easiest to deal with. This is typical of dates in general but having to convert the dates from strings to days of the year was a bit tricky.
 
 ### Take Aways
 
