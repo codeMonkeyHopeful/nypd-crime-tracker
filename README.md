@@ -42,5 +42,6 @@ While the data gives us a lot of useful information the dates weren't always the
 
 ### Take Aways
 
-A few key insights you derived from your analysis
-Conclusion(s) / key takeaways from your analysis
+While 2020 had many factors in play it is clear that the highest ratest of hate crimes in NYC are predominantly aginst people of the Jewish faith, mostly in South Bronx. Looking at a calendar of Jewish holidays there appears to be a correlation between holidays and shortly following a rise in reports of hate crimes against the community.
+
+Additionally if we look specifically at the Asian population in regards to the scare of Covid-19 in the city there is a sharp spike leading up to the closing of the city. Once the world learned more of the facts (further into the year) the crimes drop off sharply.
